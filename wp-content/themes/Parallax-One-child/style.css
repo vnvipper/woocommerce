@@ -1,0 +1,23 @@
+ /*
+   Theme Name: Parallax One Child
+   Theme URI: https://www.themeisle.com/ 
+   Description: This is a custom child theme I have created.
+   Author: vnvipper
+   URI: https://www.themeisle.com/ 
+   Template: Parallax-One
+   Version: 0.1 
+*/
+
+.header {
+    background:transparent !important;
+}
+
+/*.flexslider {
+  margin-bottom: 0 !important;
+}
+
+.flex-control-nav {
+    bottom: 15px;
+    line-height: 11px;
+    z-index: 1001;
+}*/
